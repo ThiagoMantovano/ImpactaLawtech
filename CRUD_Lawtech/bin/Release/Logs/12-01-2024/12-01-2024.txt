@@ -1,0 +1,7 @@
+12/01/2024 18:21:32 - Contato de nome: Tewste Inserido com sucesso!
+12/01/2024 18:21:40 - Contato de id: 9 Excluído com sucesso!
+12/01/2024 18:23:24 - Contato de nome: xcdasdsa inserido com sucesso!
+12/01/2024 18:23:29 - Contato de nome: xcdasdsa alterado com sucesso!
+12/01/2024 18:24:12 - Contato de id: 10 excluído com sucesso!
+12/01/2024 19:47:21 - Contato de nome: teste inserido com sucesso!
+12/01/2024 19:47:24 - Contato de id: 11 excluído com sucesso!

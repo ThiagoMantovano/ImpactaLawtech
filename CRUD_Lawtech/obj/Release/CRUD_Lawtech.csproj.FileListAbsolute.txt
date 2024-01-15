@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\bin\Release\CRUD_Lawtech.exe.config
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\bin\Release\CRUD_Lawtech.exe
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\bin\Release\CRUD_Lawtech.pdb
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\bin\Release\Dapper.dll
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\bin\Release\Dapper.xml
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.FormDetalhes.resources
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.FormPrincipal.resources
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.Properties.Resources.resources
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.csproj.CopyComplete
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.exe
+C:\Users\Usuário\Desktop\CRUD_Lawtech_Thiago_Mantovano\CRUD_Lawtech\obj\Release\CRUD_Lawtech.pdb
